@@ -90,5 +90,5 @@ All datasets used in the projects are synthetic and created for portfolio practi
 
 **Putu Ovel Gardin**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ovelgardin/)
+- LinkedIn: [ovelgardin](https://www.linkedin.com/in/ovelgardin/)
 - GitHub: [OvelGardin](https://github.com/OvelGardin)
