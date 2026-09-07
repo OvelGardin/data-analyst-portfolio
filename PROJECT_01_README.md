@@ -1,6 +1,6 @@
-# 📊 E-commerce Sales Analysis
+# E-commerce Sales Analysis
 
-## 📌 Business Problem
+## Business Problem
 
 E-commerce businesses need to understand sales performance across time, products, categories, and regions to identify growth opportunities and improve decision-making.
 
@@ -10,7 +10,7 @@ This project analyzes simulated e-commerce transaction data to identify revenue 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The analysis aims to answer the following questions:
 
@@ -22,7 +22,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - SQL
 - Excel
@@ -34,7 +34,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains simulated e-commerce transactions with the following fields:
 
@@ -52,7 +52,7 @@ The dataset contains simulated e-commerce transactions with the following fields
 
 ---
 
-## 🔍 Analysis
+## Analysis
 
 ### 1. Monthly Revenue
 
@@ -72,7 +72,7 @@ Revenue was grouped by region to compare geographical sales performance.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis focuses on identifying:
 
@@ -84,7 +84,7 @@ The analysis focuses on identifying:
 
 ---
 
-## 📈 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, an e-commerce business could:
 
@@ -96,14 +96,14 @@ Based on the analysis, an e-commerce business could:
 
 ---
 
-## 📁 Files
+## Files
 
 - `project_01_sales_data.csv` — E-commerce transaction dataset
 - `project_01_ecommerce_sales.sql` — SQL analysis queries
 
 ---
 
-## 👤 Author
+## Author
 
 **Putu Ovel Gardin**
 
