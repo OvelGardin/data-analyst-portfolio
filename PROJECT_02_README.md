@@ -74,24 +74,23 @@ Average processing time was analyzed by application outcome and acquisition chan
 
 ## Key Insights
 
-The analysis focuses on identifying:
-
-- Channels with stronger approval performance
-- Differences in approval rates across credit-score groups
-- Potential operational bottlenecks in processing time
-- Areas where lending operations could improve efficiency
+- The overall approval rate was **54.90%** across 1,000 simulated lending applications.
+- The **Partner** channel recorded the highest approval rate at **58.28%**, followed by Mobile App at **55.16%** and Web at **51.52%**.
+- Credit score showed a strong relationship with approval outcomes. Applications with credit scores of **700+ achieved a 69.97% approval rate**, compared with **48.95%** for scores between 600–699 and **30.77%** for scores below 600.
+- Average application processing time was approximately **15.72 hours**.
+- Approved applications took an average of **17.63 hours** to process, compared with **13.39 hours** for rejected applications, suggesting that successful applications may require additional processing or verification steps.
 
 ---
 
 ## Business Recommendations
 
-Based on the analysis, lending teams could:
+Based on the analysis, lending operations teams could:
 
-1. Monitor approval performance by acquisition channel.
-2. Investigate operational bottlenecks that increase processing time.
-3. Track approval performance across credit-score segments.
-4. Use recurring dashboards to monitor operational KPIs.
-5. Combine approval and processing metrics when evaluating operational performance.
+1. Investigate the practices or applicant mix behind the **Partner channel's higher approval rate** and determine whether similar approaches can be applied to other channels.
+2. Monitor approval rates by credit-score segment as a core lending performance KPI.
+3. Review the additional processing steps associated with approved applications to identify opportunities to reduce turnaround time.
+4. Track channel-level approval rates and processing times through a recurring operational dashboard.
+5. Monitor changes in application volume, approval rate, and processing time together to identify potential operational bottlenecks early.
 
 ---
 
