@@ -74,25 +74,24 @@ Revenue was grouped by region to compare geographical sales performance.
 
 ## Key Insights
 
-The analysis focuses on identifying:
-
-- Monthly revenue trends
-- High-performing product categories
-- Top revenue-generating products
-- Strong and weak regional markets
-- Potential opportunities for sales optimization
+- The dataset contains **600 orders** representing **1,820 units sold**, generating total revenue of **162,640.04**.
+- **Beauty** was the highest-revenue product category, generating **35,308.10**, followed closely by Fashion at **35,134.98**.
+- **Jakarta** generated the highest regional revenue at **36,153.05**, followed by Central Java at **35,345.33**.
+- **Backpack** was the highest-revenue individual product, generating **11,046.24** in total sales.
+- **August 2025** recorded the highest monthly revenue at **18,831.75**, making it the strongest-performing month in the dataset.
+- Average revenue per order was approximately **271.07**.
 
 ---
 
 ## Business Recommendations
 
-Based on the analysis, an e-commerce business could:
+Based on the analysis, the business could:
 
-1. Focus marketing efforts on high-performing product categories.
-2. Investigate underperforming regions to identify potential barriers to sales.
-3. Maintain inventory availability for high-revenue products.
-4. Monitor monthly revenue trends to identify seasonal patterns.
-5. Use product-level performance metrics to support promotional decisions.
+1. Prioritize high-performing categories such as **Beauty and Fashion** when planning product promotions and inventory.
+2. Investigate the factors behind stronger sales performance in **Jakarta and Central Java** and evaluate whether similar strategies could be applied to other regions.
+3. Maintain sufficient inventory for high-revenue products such as **Backpacks** to reduce the risk of missed sales opportunities.
+4. Analyze the factors contributing to the strong performance in **August** and determine whether seasonal campaigns or similar strategies could be repeated.
+5. Monitor monthly revenue, category performance, and regional sales through a recurring sales dashboard.
 
 ---
 
