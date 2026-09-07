@@ -1,32 +1,94 @@
-Putu Ovel Gardin
+# Putu Ovel Gardin
 
-Aspiring Data Analyst
+### Aspiring Data Analyst | Business Administration Graduate
 
-Business Administration graduate with experience in operations and problem solving, currently developing skills in SQL, Excel, BigQuery, and data visualization.
+Business Administration graduate with experience in operations, problem solving, and data-driven workflows. Currently developing skills in SQL, Excel, BigQuery, and data visualization with a focus on turning data into actionable business insights.
 
-Skills
+---
 
-SQL • Excel • BigQuery • Data Analysis • Data Visualization
+## Skills
 
-Featured Projects
-1. E-commerce Sales Analysis
+### Data Analysis
+- SQL
+- Excel
+- BigQuery
+- Data Cleaning
+- Data Aggregation
+- KPI Analysis
+- Data Visualization
 
-Analyzed sales transactions to identify revenue trends, top-performing products, categories, and regions.
+### Business & Operations
+- Business Intelligence
+- Operational Analysis
+- Problem Solving
+- Process Improvement
+- Business Reporting
 
-Tools: SQL, Excel
+---
 
-2. Lending Operations Analysis
+## Featured Projects
 
-Analyzed simulated lending application data to evaluate approval rates, credit-score patterns, processing time, and acquisition channels.
+### 1. E-commerce Sales Analysis
 
-Tools: SQL, Excel
+Analyzed simulated e-commerce transaction data to identify revenue trends, top-performing products, categories, and regional performance.
 
-3. Lending Operations Dashboard
+**Tools:** SQL, Excel
 
-Built an operational dashboard to monitor application volume, approval rate, processing time, and channel performance.
+**Key Skills:** Sales Analysis · Revenue Analysis · KPI Analysis · Business Insights
 
-Tools: Excel
+---
 
-Career Interest
+### 2. Lending Operations Analysis
 
-Data Analyst • Business Intelligence • Business Analytics • Operations Analytics
+Analyzed simulated lending application data to evaluate approval rates, credit-score patterns, processing time, and acquisition channel performance.
+
+**Tools:** SQL, Excel
+
+**Key Skills:** Operational Analysis · Approval Rate Analysis · Data Aggregation · Business Intelligence
+
+---
+
+### 3. Lending Operations Dashboard
+
+Built an Excel dashboard to monitor lending operations through key performance indicators including application volume, approval rate, processing time, and channel performance.
+
+**Tools:** Excel
+
+**Key Skills:** Dashboard Development · KPI Monitoring · Data Visualization · Operational Reporting
+
+---
+
+## Tools
+
+| Category | Tools |
+|---|---|
+| Data Analysis | SQL, Excel, BigQuery |
+| Visualization | Excel |
+| Database | BigQuery |
+| Business Intelligence | KPI Analysis, Operational Analytics |
+| Other | GitHub, Microsoft Office |
+
+---
+
+## Education
+
+**Associate of Applied Science (AAS) – Business Administration**
+
+Iowa Western Community College
+
+---
+
+## About This Portfolio
+
+This portfolio contains self-directed data analytics projects created to demonstrate practical skills in SQL, Excel, BigQuery, business intelligence, and operational analysis.
+
+All datasets used in the projects are synthetic and created for portfolio practice. They do not contain real company or customer data.
+
+---
+
+## Contact
+
+**Putu Ovel Gardin**
+
+- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- GitHub: [OvelGardin](https://github.com/OvelGardin)
