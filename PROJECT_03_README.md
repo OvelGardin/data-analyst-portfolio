@@ -1,6 +1,6 @@
-# 📈 Lending Operations Dashboard
+# Lending Operations Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 Operational teams need a clear view of application volume, approval performance, and processing efficiency to monitor day-to-day lending operations.
 
@@ -10,7 +10,7 @@ This project presents an interactive-style Excel dashboard built from simulated 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The dashboard was designed to help operational teams:
 
@@ -22,7 +22,7 @@ The dashboard was designed to help operational teams:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Microsoft Excel
 - Data Analysis
@@ -34,7 +34,7 @@ The dashboard was designed to help operational teams:
 
 ---
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
 
 The dashboard includes the following key performance indicators:
 
@@ -47,7 +47,7 @@ The dashboard includes the following key performance indicators:
 
 ---
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 
 ### Monthly Application Volume
 
@@ -63,7 +63,7 @@ Average processing time is monitored to help identify potential operational bott
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 The dashboard enables stakeholders to quickly identify:
 
@@ -74,7 +74,7 @@ The dashboard enables stakeholders to quickly identify:
 
 ---
 
-## 📌 Business Recommendations
+## Business Recommendations
 
 Based on the dashboard, an operations team could:
 
@@ -86,13 +86,13 @@ Based on the dashboard, an operations team could:
 
 ---
 
-## 📁 Files
+## Files
 
 - `project_03_lending_operations_dashboard.xlsx` — Excel dashboard and underlying application data
 
 ---
 
-## 👤 Author
+## Author
 
 **Putu Ovel Gardin**
 
