@@ -1,6 +1,6 @@
-# 💳 Lending Operations Analysis
+# Lending Operations Analysis
 
-## 📌 Business Problem
+## Business Problem
 
 Lending teams need to monitor application performance, approval rates, and operational processing time to support efficient decision-making.
 
@@ -10,7 +10,7 @@ This project analyzes simulated lending application data to identify patterns in
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The analysis aims to answer the following questions:
 
@@ -22,7 +22,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - SQL
 - Excel
@@ -34,7 +34,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains simulated lending applications with the following fields:
 
@@ -52,7 +52,7 @@ The dataset contains simulated lending applications with the following fields:
 
 ---
 
-## 🔍 Analysis
+## Analysis
 
 ### 1. Overall Approval Rate
 
@@ -72,7 +72,7 @@ Average processing time was analyzed by application outcome and acquisition chan
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis focuses on identifying:
 
@@ -83,7 +83,7 @@ The analysis focuses on identifying:
 
 ---
 
-## 📈 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, lending teams could:
 
@@ -95,14 +95,14 @@ Based on the analysis, lending teams could:
 
 ---
 
-## 📁 Files
+## Files
 
 - `project_02_lending_applications.csv` — Dataset
 - `project_02_lending_operations.sql` — SQL analysis
 
 ---
 
-## 👤 Author
+## Author
 
 **Putu Ovel Gardin**
 
