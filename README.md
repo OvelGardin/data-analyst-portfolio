@@ -1,4 +1,5 @@
 Putu Ovel Gardin
+
 Aspiring Data Analyst
 
 Business Administration graduate with experience in operations and problem solving, currently developing skills in SQL, Excel, BigQuery, and data visualization.
