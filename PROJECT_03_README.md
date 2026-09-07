@@ -65,25 +65,21 @@ Average processing time is monitored to help identify potential operational bott
 
 ## Business Insights
 
-The dashboard enables stakeholders to quickly identify:
-
-- Changes in application volume
-- Differences in approval performance between channels
-- Overall operational processing efficiency
-- Potential areas requiring further investigation
-
+- The dashboard summarizes **1,000 simulated lending applications** with an overall approval rate of **54.90%**.
+- Average application processing time was approximately **15.72 hours**, providing a baseline for monitoring operational turnaround time.
+- The **Partner** channel recorded the highest approval rate at **58.28%**, followed by Mobile App at **55.16%** and Web at **51.52%**.
+- Approved applications required an average of **17.63 hours** to process, compared with **13.39 hours** for rejected applications.
+- The dashboard allows lending operations teams to monitor application volume, approval performance, processing efficiency, and channel-level performance in one view.
 ---
 
 ## Business Recommendations
 
-Based on the dashboard, an operations team could:
+Based on the dashboard, lending operations teams could:
 
-1. Monitor application volume regularly to anticipate workload.
-2. Investigate channels with lower approval performance.
-3. Track processing time to identify potential operational bottlenecks.
-4. Use KPI trends to support resource planning.
-5. Combine operational and approval metrics when evaluating overall performance.
-
+1. Monitor **approval rate and processing time together** to identify potential operational bottlenecks.
+2. Compare channel performance regularly to understand differences in application quality and operational efficiency.
+3. Review processing steps for approved applications, which currently require more processing time than rejected applications.
+4. Use the dashboard as a recurring operational monitoring tool to track changes in application volume and lending KPIs over time.
 ---
 
 ## Files
